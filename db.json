@@ -17,25 +17,8 @@
       "rememberMe": true,
       "clientId": 2,
       "id": 2
-    },
-    {
-      "email": "anna@wp.pl",
-      "password": "Qazxsw",
-      "confirmPassword": "Qazxsw",
-      "avatar": "https://i.pinimg.com/236x/4d/1d/ef/4d1def82fcfe6b7fbace1e0b9cf5f627.jpg",
-      "rememberMe": true,
-      "clientId": 3,
-      "id": 3
-    },
-    {
-      "email": "karo@wp.pl",
-      "password": "Edczaq",
-      "confirmPassword": "Edczaq",
-      "avatar": "https://i.pinimg.com/236x/4d/1d/ef/4d1def82fcfe6b7fbace1e0b9cf5f627.jpg",
-      "rememberMe": true,
-      "clientId": 1,
-      "id": 4
     }
+   
   ],
   "avatars": [
     {
@@ -52,97 +35,9 @@
     }
   ],
   "reservations": [
-    {
-      "date": "2024-01-09T17:50",
-      "people": "4",
-      "orderDate": "9.01.2024",
-      "clientId": 2,
-      "user": "jacek@interia.pl",
-      "id": 1
-    },
-    {
-      "date": "2024-01-10T12:33",
-      "people": "3",
-      "orderDate": "10.01.2024",
-      "clientId": 1,
-      "user": "dariuszcudny@wp.pl",
-      "id": 2
-    },
-    {
-      "date": "2024-01-10T12:40",
-      "people": "3",
-      "orderDate": "10.01.2024",
-      "clientId": 1,
-      "user": "dariuszcudny@wp.pl",
-      "id": 3
-    },
-    {
-      "date": "2024-01-11T12:49",
-      "people": "4",
-      "orderDate": "11.01.2024",
-      "clientId": 1,
-      "user": "dariuszcudny@wp.pl",
-      "id": 4
-    },
-    {
-      "date": "2024-01-21T13:35",
-      "people": "3",
-      "orderDate": "21.01.2024",
-      "clientId": 1,
-      "user": "dariuszcudny@wp.pl",
-      "id": 5
-    },
-    {
-      "date": "2024-01-21T13:37",
-      "people": "3",
-      "orderDate": "21.01.2024",
-      "clientId": 3,
-      "user": "anna@wp.pl",
-      "id": 6
-    },
-    {
-      "date": "2024-01-22T12:07",
-      "people": "4",
-      "orderDate": "22.01.2024",
-      "clientId": 1,
-      "user": "dariuszcudny@wp.pl",
-      "id": 7
-    }
   ],
   "clientOrders": [
-    {
-      "orderTitle": "Coconut Pound Cake",
-      "mealPrice": 122,
-      "mealNumber": 4,
-      "orderId": 639802,
-      "date": "10.01.2024",
-      "image": "https://spoonacular.com/recipeImages/639802-312x231.jpg",
-      "name": "jacek@interia.pl",
-      "clientId": 2,
-      "id": 1
-    },
-    {
-      "orderTitle": "Easiest Breakfast Ever: Sunny Fruit Parfait",
-      "mealPrice": 88,
-      "mealNumber": 0,
-      "orderId": 716433,
-      "date": "21.01.2024",
-      "image": "https://spoonacular.com/recipeImages/716433-312x231.jpg",
-      "name": "dariuszcudny@wp.pl",
-      "clientId": 1,
-      "id": 3
-    },
-    {
-      "orderTitle": "Coconut Pound Cake",
-      "mealPrice": 122,
-      "mealNumber": 1,
-      "orderId": 639802,
-      "date": "21.01.2024",
-      "image": "https://spoonacular.com/recipeImages/639802-312x231.jpg",
-      "name": "anna@wp.pl",
-      "clientId": 3,
-      "id": 5
-    }
+   
   ],
   "menuItems": [
     {
